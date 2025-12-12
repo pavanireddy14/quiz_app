@@ -1,0 +1,173 @@
+{
+  "General Knowledge": {
+    "Easy": [
+      {
+        "question": "What is the capital of India?",
+        "options": ["Delhi", "Mumbai", "Kolkata", "Hyderabad"],
+        "answer": "Delhi"
+      },
+      {
+        "question": "How many days are there in a week?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "7"
+      },
+      {
+        "question": "What is the national animal of India?",
+        "options": ["Tiger", "Lion", "Elephant", "Leopard"],
+        "answer": "Tiger"
+      },
+      {
+        "question": "Which ocean is the largest?",
+        "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+        "answer": "Pacific"
+      },
+      {
+        "question": "Who is known as the Father of the Nation in India?",
+        "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subash Chandra Bose", "APJ Abdul Kalam"],
+        "answer": "Mahatma Gandhi"
+      }
+    ],
+
+    "Medium": [
+      {
+        "question": "Which country gifted the Statue of Liberty to the USA?",
+        "options": ["France", "Germany", "Canada", "Italy"],
+        "answer": "France"
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Jupiter", "Mercury", "Venus"],
+        "answer": "Mars"
+      },
+      {
+        "question": "What is the hardest natural substance?",
+        "options": ["Diamond", "Gold", "Iron", "Silver"],
+        "answer": "Diamond"
+      },
+      {
+        "question": "Who wrote the National Anthem of India?",
+        "options": ["Rabindranath Tagore", "Bankim Chandra Chatterjee", "Sarojini Naidu", "Subash Chandra Bose"],
+        "answer": "Rabindranath Tagore"
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Yen", "Won", "Dollar", "Baht"],
+        "answer": "Yen"
+      }
+    ],
+
+    "Hard": [
+      {
+        "question": "Which is the smallest country in the world?",
+        "options": ["Vatican City", "Monaco", "Malta", "Liechtenstein"],
+        "answer": "Vatican City"
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Isaac Newton", "Albert Einstein"],
+        "answer": "Alexander Fleming"
+      },
+      {
+        "question": "What is the longest river in the world?",
+        "options": ["Nile", "Amazon", "Ganga", "Yangtze"],
+        "answer": "Nile"
+      },
+      {
+        "question": "In which year did World War II end?",
+        "options": ["1945", "1939", "1940", "1950"],
+        "answer": "1945"
+      },
+      {
+        "question": "Which metal is liquid at room temperature?",
+        "options": ["Mercury", "Tin", "Lead", "Aluminum"],
+        "answer": "Mercury"
+      }
+    ]
+  },
+
+  "Technology": {
+    "Easy": [
+      {
+        "question": "Python was created by?",
+        "options": ["Guido van Rossum", "James Gosling", "Dennis Ritchie", "Elon Musk"],
+        "answer": "Guido van Rossum"
+      },
+      {
+        "question": "What does 'CPU' stand for?",
+        "options": ["Central Processing Unit", "Computer Power Unit", "Control Program Utility", "Central Program Unit"],
+        "answer": "Central Processing Unit"
+      },
+      {
+        "question": "Which device is used to input text?",
+        "options": ["Keyboard", "Monitor", "Speaker", "Projector"],
+        "answer": "Keyboard"
+      },
+      {
+        "question": "Which company created Windows OS?",
+        "options": ["Microsoft", "Apple", "Google", "IBM"],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "What does USB stand for?",
+        "options": ["Universal Serial Bus", "United System Bus", "Universal Security Block", "Ultra Service Bus"],
+        "answer": "Universal Serial Bus"
+      }
+    ],
+
+    "Medium": [
+      {
+        "question": "Java was developed by?",
+        "options": ["James Gosling", "Guido van Rossum", "Bjarne Stroustrup", "Tim Berners-Lee"],
+        "answer": "James Gosling"
+      },
+      {
+        "question": "What is the full form of HTML?",
+        "options": ["HyperText Markup Language", "HyperType Machine Language", "HighText Markup Leveler", "Hyper Transfer Markup Language"],
+        "answer": "HyperText Markup Language"
+      },
+      {
+        "question": "Which protocol is used to send emails?",
+        "options": ["SMTP", "FTP", "HTTP", "SSH"],
+        "answer": "SMTP"
+      },
+      {
+        "question": "Which company owns Android?",
+        "options": ["Google", "Apple", "Nokia", "Samsung"],
+        "answer": "Google"
+      },
+      {
+        "question": "Which data structure uses FIFO?",
+        "options": ["Queue", "Stack", "Tree", "Graph"],
+        "answer": "Queue"
+      }
+    ],
+
+    "Hard": [
+      {
+        "question": "Which was the first programming language?",
+        "options": ["FORTRAN", "C", "Assembly", "COBOL"],
+        "answer": "FORTRAN"
+      },
+      {
+        "question": "What does GPU stand for?",
+        "options": ["Graphics Processing Unit", "Graph Power Utility", "Generic Processing Unit", "Ground Power Unit"],
+        "answer": "Graphics Processing Unit"
+      },
+      {
+        "question": "Which company created C language?",
+        "options": ["Bell Labs", "Microsoft", "IBM", "Intel"],
+        "answer": "Bell Labs"
+      },
+      {
+        "question": "Which algorithm is used for shortest path?",
+        "options": ["Dijkstra", "Quick Sort", "Binary Search", "Prim"],
+        "answer": "Dijkstra"
+      },
+      {
+        "question": "Who is known as the father of computers?",
+        "options": ["Charles Babbage", "Alan Turing", "John von Neumann", "Steve Jobs"],
+        "answer": "Charles Babbage"
+      }
+    ]
+  }
+}
